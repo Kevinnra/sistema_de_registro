@@ -9,5 +9,6 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/License-Oracle-red">
  </p>
 
-para ejecutar el sistema, debes poner:
+Para ejecutar el sistema, debes poner:
+
 ```rpm install react```
